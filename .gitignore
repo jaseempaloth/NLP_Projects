@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment directories
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs and debug
+*.log
+*.out
+*.pid
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.swp
+
+# OS-specific files
+*.~lock.*
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Generated files
+*.class
+*.war
+*.jar
+*.map
+*.o
+*.so
+*.dll
+
+# Secrets
+*.env
+.env.*
+.env.local
+config/secrets.yml
+
+# Testing
+coverage/
+*.cover
+*.lcov
+.cache/
+.pytest_cache/
+junit.xml
+test-results.xml
+
+# Python
+migrations/
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Java
+target/
+
+# C/C++
+*.obj
+*.pdb
+
+# Rust
+target/
+
+# Go
+bin/
+*.exe
+
+# Temp files
+*.tmp
+*.temp
